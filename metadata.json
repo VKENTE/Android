@@ -1,0 +1,7 @@
+{
+  "name": "Toilet Finder Pro",
+  "description": "Find public toilets near you using AI-powered Google Maps grounding. Get directions, ratings, and accessibility info in seconds.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
